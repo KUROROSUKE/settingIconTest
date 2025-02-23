@@ -1,0 +1,109 @@
+turn,p2_hand,droped_cards_p1,droped_cards_p2,p1_point,p2_point,select_card,action
+1,"O, B, H, O, C, C, H, C",H,B,0,0,B,0
+1,"O, F, H, O, C, C, H, C","H, H","B, F",0,0,F,0
+1,"O, Al, H, O, C, C, H, C","H, H, O","B, F, Al",0,0,Al,0
+1,"O, H, H, O, C, C, H, C","H, H, O, C","B, F, Al, H",0,0,H,0
+1,"O, H, H, O, C, C, H, C","H, H, O, C, H","B, F, Al, H, H",0,0,H,0
+1,"O, Ne, H, O, C, C, H, C","H, H, O, C, H, Ca","B, F, Al, H, H, Ne",0,0,Ne,0
+1,"O, O, H, O, C, C, H, C","H, H, O, C, H, Ca, C","B, F, Al, H, H, Ne",0,0,"{'H': 2, 'C': 1, 'O': 3}",1
+1,"O, B, H, O, C, C, H, C",H,B,0,0,B,0
+1,"O, F, H, O, C, C, H, C","H, H","B, F",0,0,F,0
+1,"O, Al, H, O, C, C, H, C","H, H, O","B, F, Al",0,0,Al,0
+1,"O, H, H, O, C, C, H, C","H, H, O, C","B, F, Al, H",0,0,H,0
+1,"O, H, H, O, C, C, H, C","H, H, O, C, H","B, F, Al, H, H",0,0,H,0
+1,"O, Ne, H, O, C, C, H, C","H, H, O, C, H, Ca","B, F, Al, H, H, Ne",0,0,Ne,0
+1,"O, O, H, O, C, C, H, C","H, H, O, C, H, Ca, C","B, F, Al, H, H, Ne",0,0,"{'H': 2, 'C': 1, 'O': 3}",1
+2,"K, O, H, H, H, H, Si, H",,,5,35,"{'K': 1, 'O': 1, 'H': 1}",1
+1,"H, H, H, C, H, H, H, N",C,,0,0,{'H': 2},1
+1,"Cu, H, H, Al, P, C, H, Zn",,C,0,0,C,0
+1,"Cu, H, H, Al, P, C, H, Zn",Ca,"C, Al",0,0,Al,0
+1,"Cu, H, H, O, P, C, H, Zn","Ca, Zn","C, Al, Cu",0,0,Cu,0
+1,"H, H, H, O, P, C, H, Zn","Ca, Zn, Si","C, Al, Cu, Zn",0,0,Zn,0
+1,"H, H, H, O, P, C, H, S","Ca, Zn, Si, Cl","C, Al, Cu, Zn, S",0,0,S,0
+1,"H, H, H, O, P, C, H, Li","Ca, Zn, Si, Cl, O","C, Al, Cu, Zn, S, C",0,0,C,0
+1,"H, H, H, O, P, H, H, Li","Ca, Zn, Si, Cl, O, Cl","C, Al, Cu, Zn, S, C, Li",0,0,Li,0
+1,"H, H, H, O, P, H, H, P","Ca, Zn, Si, Cl, O, Cl, O","C, Al, Cu, Zn, S, C, Li, H",0,0,H,0
+1,"H, H, H, O, P, H, H, P","Ca, Zn, Si, Cl, O, Cl, O, H","C, Al, Cu, Zn, S, C, Li, H, P",0,0,P,0
+1,"H, H, H, O, P, H, H, C","Ca, Zn, Si, Cl, O, Cl, O, H, K","C, Al, Cu, Zn, S, C, Li, H, P, H",0,0,H,0
+1,"H, H, H, O, P, H, H, C","Ca, Zn, Si, Cl, O, Cl, O, H, K, C","C, Al, Cu, Zn, S, C, Li, H, P, H, C",0,0,C,0
+1,"H, H, H, O, P, H, H, C","Ca, Zn, Si, Cl, O, Cl, O, H, K, C, C","C, Al, Cu, Zn, S, C, Li, H, P, H, C, C",0,0,C,0
+1,"H, H, H, O, P, H, H, Fe","Ca, Zn, Si, Cl, O, Cl, O, H, K, C, C, H","C, Al, Cu, Zn, S, C, Li, H, P, H, C, C, Fe",0,0,Fe,0
+1,"H, H, H, O, P, H, H, Be","Ca, Zn, Si, Cl, O, Cl, O, H, K, C, C, H, H","C, Al, Cu, Zn, S, C, Li, H, P, H, C, C, Fe, Be",0,0,Be,0
+1,"H, H, H, O, P, H, H, Si","Ca, Zn, Si, Cl, O, Cl, O, H, K, C, C, H, H, O","C, Al, Cu, Zn, S, C, Li, H, P, H, C, C, Fe, Be, Si",0,0,Si,0
+1,"H, H, H, O, P, H, H, Na","Ca, Zn, Si, Cl, O, Cl, O, H, K, C, C, H, H, O, Fe","C, Al, Cu, Zn, S, C, Li, H, P, H, C, C, Fe, Be, Si, Na",0,0,Na,0
+1,"H, H, H, O, P, H, H, C","Ca, Zn, Si, Cl, O, Cl, O, H, K, C, C, H, H, O, Fe, O","C, Al, Cu, Zn, S, C, Li, H, P, H, C, C, Fe, Be, Si, Na, C",0,0,C,0
+1,"H, H, H, O, P, H, H, O","Ca, Zn, Si, Cl, O, Cl, O, H, K, C, C, H, H, O, Fe, O, H","C, Al, Cu, Zn, S, C, Li, H, P, H, C, C, Fe, Be, Si, Na, C, H",0,0,H,0
+1,"H, C, H, O, P, H, H, O","Ca, Zn, Si, Cl, O, Cl, O, H, K, C, C, H, H, O, Fe, O, H, Na","C, Al, Cu, Zn, S, C, Li, H, P, H, C, C, Fe, Be, Si, Na, C, H, C",0,0,C,0
+1,"H, H, H, O, P, H, H, O","Ca, Zn, Si, Cl, O, Cl, O, H, K, C, C, H, H, O, Fe, O, H, Na, I","C, Al, Cu, Zn, S, C, Li, H, P, H, C, C, Fe, Be, Si, Na, C, H, C, H",0,0,H,0
+1,"H, O, H, O, P, H, H, O","Ca, Zn, Si, Cl, O, Cl, O, H, K, C, C, H, H, O, Fe, O, H, Na, I, C","C, Al, Cu, Zn, S, C, Li, H, P, H, C, C, Fe, Be, Si, Na, C, H, C, H, H",0,0,H,0
+1,"O, O, H, O, P, H, H, O","Ca, Zn, Si, Cl, O, Cl, O, H, K, C, C, H, H, O, Fe, O, H, Na, I, C, O","C, Al, Cu, Zn, S, C, Li, H, P, H, C, C, Fe, Be, Si, Na, C, H, C, H, H",0,0,"{'P': 1, 'H': 3, 'O': 4}",1
+2,"C, H, H, Li, C, H, C, O",,Li,5,135,Li,0
+2,"C, H, H, C, C, H, C, O",O,"Li, C",5,135,C,0
+2,"C, H, H, C, C, H, H, O","O, Na","Li, C, C",5,135,C,0
+2,"C, H, H, C, Mg, H, H, O","O, Na, Fe","Li, C, C, Mg",5,135,Mg,0
+2,"C, H, H, C, Zn, H, H, O","O, Na, Fe, S","Li, C, C, Mg, Zn",5,135,Zn,0
+2,"C, H, H, C, H, H, H, O","O, Na, Fe, S, He","Li, C, C, Mg, Zn, O",5,135,O,0
+2,"C, H, H, C, H, H, H, C","O, Na, Fe, S, He, C","Li, C, C, Mg, Zn, O, C",5,135,C,0
+2,"C, H, H, C, H, H, H, Zn","O, Na, Fe, S, He, C, I","Li, C, C, Mg, Zn, O, C, Zn",5,135,Zn,0
+2,"C, H, H, C, H, H, H, H","O, Na, Fe, S, He, C, I, P","Li, C, C, Mg, Zn, O, C, Zn",5,135,"{'C': 2, 'H': 6}",1
+3,"Be, B, Ar, Fe, Be, C, H, I",,Be,10,254,Be,0
+3,"Be, B, Ar, Fe, O, C, H, I",H,"Be, Fe",10,254,Fe,0
+3,"Be, B, Ar, C, O, C, H, I","H, Li","Be, Fe, Ar",10,254,Ar,0
+3,"Be, B, Al, C, O, C, H, I","H, Li, Cu","Be, Fe, Ar, B",10,254,B,0
+3,"Be, H, Al, C, O, C, H, I","H, Li, Cu, H","Be, Fe, Ar, B, Be",10,254,Be,0
+3,"H, H, Al, C, O, C, H, I","H, Li, Cu, H, O","Be, Fe, Ar, B, Be, Al",10,254,Al,0
+3,"H, H, O, C, O, C, H, I","H, Li, Cu, H, O, H","Be, Fe, Ar, B, Be, Al, I",10,254,I,0
+3,"H, H, O, C, O, C, H, K","H, Li, Cu, H, O, H, Na","Be, Fe, Ar, B, Be, Al, I, K",10,254,K,0
+3,"H, H, O, C, O, C, H, C","H, Li, Cu, H, O, H, Na, C","Be, Fe, Ar, B, Be, Al, I, K, C",10,254,C,0
+3,"H, H, O, C, O, C, H, H","H, Li, Cu, H, O, H, Na, C, Fe","Be, Fe, Ar, B, Be, Al, I, K, C, H",10,254,H,0
+3,"H, H, O, C, O, C, H, H","H, Li, Cu, H, O, H, Na, C, Fe, Ca","Be, Fe, Ar, B, Be, Al, I, K, C, H, H",10,254,H,0
+3,"H, H, O, C, O, C, H, H","H, Li, Cu, H, O, H, Na, C, Fe, Ca, O","Be, Fe, Ar, B, Be, Al, I, K, C, H, H, H",10,254,H,0
+1,"H, O, H, H, B, Fe, H, O",C,H,0,0,H,0
+1,"H, O, Ne, H, B, Fe, H, O","C, H","H, Ne",0,0,Ne,0
+1,"H, O, F, H, B, Fe, H, O","C, H, H","H, Ne, F",0,0,F,0
+1,"H, O, H, H, B, Fe, H, O","C, H, H, H","H, Ne, F, O",0,0,O,0
+1,"H, H, H, H, B, Fe, H, O","C, H, H, H, C","H, Ne, F, O, H",0,0,H,0
+1,"H, H, H, H, B, Fe, H, O","C, H, H, H, C, C","H, Ne, F, O, H, H",0,0,H,0
+1,"H, C, H, H, B, Fe, H, O","C, H, H, H, C, C, Al","H, Ne, F, O, H, H, O",0,0,O,0
+1,"H, C, H, H, B, Fe, H, O","C, H, H, H, C, C, Al, H","H, Ne, F, O, H, H, O, O",0,0,O,0
+1,"H, C, H, H, B, Fe, H, O","C, H, H, H, C, C, Al, H, H","H, Ne, F, O, H, H, O, O, O",0,0,O,0
+1,"H, C, H, H, B, Fe, H, P","C, H, H, H, C, C, Al, H, H, B","H, Ne, F, O, H, H, O, O, O, Fe",0,0,Fe,0
+1,"H, C, H, H, B, K, H, P","C, H, H, H, C, C, Al, H, H, B, C","H, Ne, F, O, H, H, O, O, O, Fe, B",0,0,B,0
+1,"H, C, H, H, H, K, H, P","C, H, H, H, C, C, Al, H, H, B, C, C","H, Ne, F, O, H, H, O, O, O, Fe, B, H",0,0,H,0
+1,"H, C, H, H, Ca, K, H, P","C, H, H, H, C, C, Al, H, H, B, C, C, H","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca",0,0,Ca,0
+1,"H, C, H, H, N, K, H, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N",0,0,N,0
+1,"H, C, H, H, Ne, K, H, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne",0,0,Ne,0
+1,"H, C, H, H, I, K, H, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I",0,0,I,0
+1,"H, C, H, H, C, K, H, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C",0,0,C,0
+1,"H, C, H, H, C, K, H, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C",0,0,C,0
+1,"H, C, H, H, O, K, H, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H",0,0,H,0
+1,"H, C, H, H, O, K, P, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P",0,0,P,0
+1,"H, C, H, H, O, K, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K",0,0,K,0
+1,"H, C, H, H, O, C, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C",0,0,C,0
+1,"H, C, H, H, O, Cu, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu",0,0,Cu,0
+1,"H, C, H, H, O, H, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C",0,0,C,0
+1,"H, Fe, H, H, O, H, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe",0,0,Fe,0
+1,"H, C, H, H, O, H, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H",0,0,H,0
+1,"H, C, H, H, O, C, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C",0,0,C,0
+1,"H, Cl, H, H, O, C, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C",0,0,C,0
+1,"H, Cl, H, H, O, Li, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li",0,0,Li,0
+1,"H, Cl, H, H, O, S, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl",0,0,Cl,0
+1,"H, He, H, H, O, S, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He",0,0,He,0
+1,"H, H, H, H, O, S, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H",0,0,H,0
+1,"H, H, H, H, O, S, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg, C","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H, H",0,0,H,0
+1,"H, N, H, H, O, S, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg, C, Ca","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H, H, S",0,0,S,0
+1,"H, N, H, H, O, C, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg, C, Ca, H","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H, H, S, C",0,0,C,0
+1,"H, N, H, H, O, O, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg, C, Ca, H, O","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H, H, S, C, N",0,0,N,0
+1,"H, C, H, H, O, O, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg, C, Ca, H, O, H","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H, H, S, C, N, C",0,0,C,0
+1,"H, H, H, H, O, O, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg, C, Ca, H, O, H, H","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H, H, S, C, N, C, H",0,0,H,0
+1,"H, C, H, H, O, O, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg, C, Ca, H, O, H, H, O","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H, H, S, C, N, C, H, C",0,0,C,0
+1,"H, Li, H, H, O, O, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg, C, Ca, H, O, H, H, O, Si","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H, H, S, C, N, C, H, C, Li",0,0,Li,0
+1,"H, Na, H, H, O, O, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg, C, Ca, H, O, H, H, O, Si, O","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H, H, S, C, N, C, H, C, Li, Na",0,0,Na,0
+1,"H, S, H, H, O, O, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg, C, Ca, H, O, H, H, O, Si, O, Zn","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H, H, S, C, N, C, H, C, Li, Na, S",0,0,S,0
+1,"H, Si, H, H, O, O, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg, C, Ca, H, O, H, H, O, Si, O, Zn, F","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H, H, S, C, N, C, H, C, Li, Na, S, Si",0,0,Si,0
+1,"H, H, H, H, O, O, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg, C, Ca, H, O, H, H, O, Si, O, Zn, F, I","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H, H, S, C, N, C, H, C, Li, Na, S, Si, H",0,0,H,0
+1,"H, H, H, H, O, O, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg, C, Ca, H, O, H, H, O, Si, O, Zn, F, I, O","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H, H, S, C, N, C, H, C, Li, Na, S, Si, H, H",0,0,H,0
+1,"H, Be, H, H, O, O, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg, C, Ca, H, O, H, H, O, Si, O, Zn, F, I, O, H","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H, H, S, C, N, C, H, C, Li, Na, S, Si, H, H, Be",0,0,Be,0
+1,"H, C, H, H, O, O, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg, C, Ca, H, O, H, H, O, Si, O, Zn, F, I, O, H, Na","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H, H, S, C, N, C, H, C, Li, Na, S, Si, H, H, Be, C",0,0,C,0
+1,"H, H, H, H, O, O, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg, C, Ca, H, O, H, H, O, Si, O, Zn, F, I, O, H, Na, C","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H, H, S, C, N, C, H, C, Li, Na, S, Si, H, H, Be, C, H",0,0,H,0
+1,"H, H, H, H, O, O, O, P","C, H, H, H, C, C, Al, H, H, B, C, C, H, O, Ar, Zn, O, O, Be, O, Cl, C, K, H, H, O, H, H, O, Al, O, Mg, C, Ca, H, O, H, H, O, Si, O, Zn, F, I, O, H, Na, C, O","H, Ne, F, O, H, H, O, O, O, Fe, B, H, Ca, N, Ne, I, C, C, H, P, K, C, Cu, C, Fe, H, C, C, Li, Cl, He, H, H, S, C, N, C, H, C, Li, Na, S, Si, H, H, Be, C, H, H",0,0,H,0
