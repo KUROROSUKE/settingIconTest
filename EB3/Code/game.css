@@ -36,6 +36,7 @@
 /* 設定 */
 #setting_icon {
     position: absolute;
+    width: 6vh;
     right: 5vw;
     bottom: 5vh;
     z-index: 101;
